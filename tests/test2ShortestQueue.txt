@@ -1,0 +1,1843 @@
+Current time: 0
+Waiting people:
+>>1 -> (arrT: 13; servT: 5)
+>>2 -> (arrT: 38; servT: 3)
+>>3 -> (arrT: 3; servT: 6)
+>>4 -> (arrT: 17; servT: 1)
+>>5 -> (arrT: 17; servT: 3)
+>>6 -> (arrT: 23; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>8 -> (arrT: 4; servT: 4)
+>>9 -> (arrT: 12; servT: 4)
+>>10 -> (arrT: 14; servT: 6)
+>>11 -> (arrT: 14; servT: 2)
+>>12 -> (arrT: 4; servT: 3)
+>>13 -> (arrT: 20; servT: 6)
+>>14 -> (arrT: 34; servT: 4)
+>>15 -> (arrT: 3; servT: 3)
+>>16 -> (arrT: 16; servT: 4)
+>>17 -> (arrT: 22; servT: 7)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>20 -> (arrT: 7; servT: 3)
+>>21 -> (arrT: 6; servT: 3)
+>>22 -> (arrT: 11; servT: 3)
+>>23 -> (arrT: 9; servT: 7)
+>>24 -> (arrT: 12; servT: 4)
+>>25 -> (arrT: 9; servT: 2)
+>>26 -> (arrT: 38; servT: 1)
+>>27 -> (arrT: 3; servT: 5)
+>>28 -> (arrT: 12; servT: 4)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>31 -> (arrT: 16; servT: 2)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>34 -> (arrT: 5; servT: 7)
+>>35 -> (arrT: 24; servT: 5)
+>>36 -> (arrT: 22; servT: 5)
+>>37 -> (arrT: 39; servT: 1)
+>>38 -> (arrT: 9; servT: 4)
+>>39 -> (arrT: 28; servT: 1)
+>>40 -> (arrT: 9; servT: 5)
+>>41 -> (arrT: 13; servT: 2)
+>>42 -> (arrT: 37; servT: 3)
+>>43 -> (arrT: 10; servT: 7)
+>>44 -> (arrT: 30; servT: 6)
+>>45 -> (arrT: 26; servT: 4)
+>>46 -> (arrT: 33; servT: 5)
+>>47 -> (arrT: 5; servT: 7)
+>>48 -> (arrT: 6; servT: 7)
+>>49 -> (arrT: 6; servT: 4)
+>>50 -> (arrT: 16; servT: 4)
+
+State of servers:
+server: <Thread #1> is closed
+server: <Thread #2> is closed
+server: <Thread #3> is closed
+server: <Thread #4> is closed
+server: <Thread #5> is closed
+
+
+Current time: 1
+Waiting people:
+>>1 -> (arrT: 13; servT: 5)
+>>2 -> (arrT: 38; servT: 3)
+>>3 -> (arrT: 3; servT: 6)
+>>4 -> (arrT: 17; servT: 1)
+>>5 -> (arrT: 17; servT: 3)
+>>6 -> (arrT: 23; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>8 -> (arrT: 4; servT: 4)
+>>9 -> (arrT: 12; servT: 4)
+>>10 -> (arrT: 14; servT: 6)
+>>11 -> (arrT: 14; servT: 2)
+>>12 -> (arrT: 4; servT: 3)
+>>13 -> (arrT: 20; servT: 6)
+>>14 -> (arrT: 34; servT: 4)
+>>15 -> (arrT: 3; servT: 3)
+>>16 -> (arrT: 16; servT: 4)
+>>17 -> (arrT: 22; servT: 7)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>20 -> (arrT: 7; servT: 3)
+>>21 -> (arrT: 6; servT: 3)
+>>22 -> (arrT: 11; servT: 3)
+>>23 -> (arrT: 9; servT: 7)
+>>24 -> (arrT: 12; servT: 4)
+>>25 -> (arrT: 9; servT: 2)
+>>26 -> (arrT: 38; servT: 1)
+>>27 -> (arrT: 3; servT: 5)
+>>28 -> (arrT: 12; servT: 4)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>31 -> (arrT: 16; servT: 2)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>34 -> (arrT: 5; servT: 7)
+>>35 -> (arrT: 24; servT: 5)
+>>36 -> (arrT: 22; servT: 5)
+>>37 -> (arrT: 39; servT: 1)
+>>38 -> (arrT: 9; servT: 4)
+>>39 -> (arrT: 28; servT: 1)
+>>40 -> (arrT: 9; servT: 5)
+>>41 -> (arrT: 13; servT: 2)
+>>42 -> (arrT: 37; servT: 3)
+>>43 -> (arrT: 10; servT: 7)
+>>44 -> (arrT: 30; servT: 6)
+>>45 -> (arrT: 26; servT: 4)
+>>46 -> (arrT: 33; servT: 5)
+>>47 -> (arrT: 5; servT: 7)
+>>48 -> (arrT: 6; servT: 7)
+>>49 -> (arrT: 6; servT: 4)
+>>50 -> (arrT: 16; servT: 4)
+
+State of servers:
+server: <Thread #1> is closed
+server: <Thread #2> is closed
+server: <Thread #3> is closed
+server: <Thread #4> is closed
+server: <Thread #5> is closed
+
+
+Current time: 2
+Waiting people:
+>>1 -> (arrT: 13; servT: 5)
+>>2 -> (arrT: 38; servT: 3)
+>>3 -> (arrT: 3; servT: 6)
+>>4 -> (arrT: 17; servT: 1)
+>>5 -> (arrT: 17; servT: 3)
+>>6 -> (arrT: 23; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>8 -> (arrT: 4; servT: 4)
+>>9 -> (arrT: 12; servT: 4)
+>>10 -> (arrT: 14; servT: 6)
+>>11 -> (arrT: 14; servT: 2)
+>>12 -> (arrT: 4; servT: 3)
+>>13 -> (arrT: 20; servT: 6)
+>>14 -> (arrT: 34; servT: 4)
+>>15 -> (arrT: 3; servT: 3)
+>>16 -> (arrT: 16; servT: 4)
+>>17 -> (arrT: 22; servT: 7)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>20 -> (arrT: 7; servT: 3)
+>>21 -> (arrT: 6; servT: 3)
+>>22 -> (arrT: 11; servT: 3)
+>>23 -> (arrT: 9; servT: 7)
+>>24 -> (arrT: 12; servT: 4)
+>>25 -> (arrT: 9; servT: 2)
+>>26 -> (arrT: 38; servT: 1)
+>>27 -> (arrT: 3; servT: 5)
+>>28 -> (arrT: 12; servT: 4)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>31 -> (arrT: 16; servT: 2)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>34 -> (arrT: 5; servT: 7)
+>>35 -> (arrT: 24; servT: 5)
+>>36 -> (arrT: 22; servT: 5)
+>>37 -> (arrT: 39; servT: 1)
+>>38 -> (arrT: 9; servT: 4)
+>>39 -> (arrT: 28; servT: 1)
+>>40 -> (arrT: 9; servT: 5)
+>>41 -> (arrT: 13; servT: 2)
+>>42 -> (arrT: 37; servT: 3)
+>>43 -> (arrT: 10; servT: 7)
+>>44 -> (arrT: 30; servT: 6)
+>>45 -> (arrT: 26; servT: 4)
+>>46 -> (arrT: 33; servT: 5)
+>>47 -> (arrT: 5; servT: 7)
+>>48 -> (arrT: 6; servT: 7)
+>>49 -> (arrT: 6; servT: 4)
+>>50 -> (arrT: 16; servT: 4)
+
+State of servers:
+server: <Thread #1> is closed
+server: <Thread #2> is closed
+server: <Thread #3> is closed
+server: <Thread #4> is closed
+server: <Thread #5> is closed
+
+
+Current time: 3
+Waiting people:
+>>1 -> (arrT: 13; servT: 5)
+>>2 -> (arrT: 38; servT: 3)
+>>4 -> (arrT: 17; servT: 1)
+>>5 -> (arrT: 17; servT: 3)
+>>6 -> (arrT: 23; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>8 -> (arrT: 4; servT: 4)
+>>9 -> (arrT: 12; servT: 4)
+>>10 -> (arrT: 14; servT: 6)
+>>11 -> (arrT: 14; servT: 2)
+>>12 -> (arrT: 4; servT: 3)
+>>13 -> (arrT: 20; servT: 6)
+>>14 -> (arrT: 34; servT: 4)
+>>16 -> (arrT: 16; servT: 4)
+>>17 -> (arrT: 22; servT: 7)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>20 -> (arrT: 7; servT: 3)
+>>21 -> (arrT: 6; servT: 3)
+>>22 -> (arrT: 11; servT: 3)
+>>23 -> (arrT: 9; servT: 7)
+>>24 -> (arrT: 12; servT: 4)
+>>25 -> (arrT: 9; servT: 2)
+>>26 -> (arrT: 38; servT: 1)
+>>28 -> (arrT: 12; servT: 4)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>31 -> (arrT: 16; servT: 2)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>34 -> (arrT: 5; servT: 7)
+>>35 -> (arrT: 24; servT: 5)
+>>36 -> (arrT: 22; servT: 5)
+>>37 -> (arrT: 39; servT: 1)
+>>38 -> (arrT: 9; servT: 4)
+>>39 -> (arrT: 28; servT: 1)
+>>40 -> (arrT: 9; servT: 5)
+>>41 -> (arrT: 13; servT: 2)
+>>42 -> (arrT: 37; servT: 3)
+>>43 -> (arrT: 10; servT: 7)
+>>44 -> (arrT: 30; servT: 6)
+>>45 -> (arrT: 26; servT: 4)
+>>46 -> (arrT: 33; servT: 5)
+>>47 -> (arrT: 5; servT: 7)
+>>48 -> (arrT: 6; servT: 7)
+>>49 -> (arrT: 6; servT: 4)
+>>50 -> (arrT: 16; servT: 4)
+
+State of servers:
+server: <Thread #1> has amount of work: 1
+	3 -> (arrT: 3; servT: 6)
+server: <Thread #2> has amount of work: 1
+	15 -> (arrT: 3; servT: 3)
+server: <Thread #3> has amount of work: 1
+	27 -> (arrT: 3; servT: 5)
+server: <Thread #4> is closed
+server: <Thread #5> is closed
+
+
+Current time: 4
+Waiting people:
+>>1 -> (arrT: 13; servT: 5)
+>>2 -> (arrT: 38; servT: 3)
+>>4 -> (arrT: 17; servT: 1)
+>>5 -> (arrT: 17; servT: 3)
+>>6 -> (arrT: 23; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>9 -> (arrT: 12; servT: 4)
+>>10 -> (arrT: 14; servT: 6)
+>>11 -> (arrT: 14; servT: 2)
+>>13 -> (arrT: 20; servT: 6)
+>>14 -> (arrT: 34; servT: 4)
+>>16 -> (arrT: 16; servT: 4)
+>>17 -> (arrT: 22; servT: 7)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>20 -> (arrT: 7; servT: 3)
+>>21 -> (arrT: 6; servT: 3)
+>>22 -> (arrT: 11; servT: 3)
+>>23 -> (arrT: 9; servT: 7)
+>>24 -> (arrT: 12; servT: 4)
+>>25 -> (arrT: 9; servT: 2)
+>>26 -> (arrT: 38; servT: 1)
+>>28 -> (arrT: 12; servT: 4)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>31 -> (arrT: 16; servT: 2)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>34 -> (arrT: 5; servT: 7)
+>>35 -> (arrT: 24; servT: 5)
+>>36 -> (arrT: 22; servT: 5)
+>>37 -> (arrT: 39; servT: 1)
+>>38 -> (arrT: 9; servT: 4)
+>>39 -> (arrT: 28; servT: 1)
+>>40 -> (arrT: 9; servT: 5)
+>>41 -> (arrT: 13; servT: 2)
+>>42 -> (arrT: 37; servT: 3)
+>>43 -> (arrT: 10; servT: 7)
+>>44 -> (arrT: 30; servT: 6)
+>>45 -> (arrT: 26; servT: 4)
+>>46 -> (arrT: 33; servT: 5)
+>>47 -> (arrT: 5; servT: 7)
+>>48 -> (arrT: 6; servT: 7)
+>>49 -> (arrT: 6; servT: 4)
+>>50 -> (arrT: 16; servT: 4)
+
+State of servers:
+server: <Thread #1> has amount of work: 1
+	3 -> (arrT: 3; servT: 5)
+server: <Thread #2> has amount of work: 1
+	15 -> (arrT: 3; servT: 2)
+server: <Thread #3> has amount of work: 1
+	27 -> (arrT: 3; servT: 4)
+server: <Thread #4> has amount of work: 1
+	8 -> (arrT: 4; servT: 4)
+server: <Thread #5> has amount of work: 1
+	12 -> (arrT: 4; servT: 3)
+
+
+Current time: 5
+Waiting people:
+>>1 -> (arrT: 13; servT: 5)
+>>2 -> (arrT: 38; servT: 3)
+>>4 -> (arrT: 17; servT: 1)
+>>5 -> (arrT: 17; servT: 3)
+>>6 -> (arrT: 23; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>9 -> (arrT: 12; servT: 4)
+>>10 -> (arrT: 14; servT: 6)
+>>11 -> (arrT: 14; servT: 2)
+>>13 -> (arrT: 20; servT: 6)
+>>14 -> (arrT: 34; servT: 4)
+>>16 -> (arrT: 16; servT: 4)
+>>17 -> (arrT: 22; servT: 7)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>20 -> (arrT: 7; servT: 3)
+>>21 -> (arrT: 6; servT: 3)
+>>22 -> (arrT: 11; servT: 3)
+>>23 -> (arrT: 9; servT: 7)
+>>24 -> (arrT: 12; servT: 4)
+>>25 -> (arrT: 9; servT: 2)
+>>26 -> (arrT: 38; servT: 1)
+>>28 -> (arrT: 12; servT: 4)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>31 -> (arrT: 16; servT: 2)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>35 -> (arrT: 24; servT: 5)
+>>36 -> (arrT: 22; servT: 5)
+>>37 -> (arrT: 39; servT: 1)
+>>38 -> (arrT: 9; servT: 4)
+>>39 -> (arrT: 28; servT: 1)
+>>40 -> (arrT: 9; servT: 5)
+>>41 -> (arrT: 13; servT: 2)
+>>42 -> (arrT: 37; servT: 3)
+>>43 -> (arrT: 10; servT: 7)
+>>44 -> (arrT: 30; servT: 6)
+>>45 -> (arrT: 26; servT: 4)
+>>46 -> (arrT: 33; servT: 5)
+>>48 -> (arrT: 6; servT: 7)
+>>49 -> (arrT: 6; servT: 4)
+>>50 -> (arrT: 16; servT: 4)
+
+State of servers:
+server: <Thread #1> has amount of work: 2
+	3 -> (arrT: 3; servT: 4)
+	34 -> (arrT: 5; servT: 7)
+server: <Thread #2> has amount of work: 2
+	15 -> (arrT: 3; servT: 1)
+	47 -> (arrT: 5; servT: 7)
+server: <Thread #3> has amount of work: 1
+	27 -> (arrT: 3; servT: 3)
+server: <Thread #4> has amount of work: 1
+	8 -> (arrT: 4; servT: 3)
+server: <Thread #5> has amount of work: 1
+	12 -> (arrT: 4; servT: 2)
+
+
+Current time: 6
+Waiting people:
+>>1 -> (arrT: 13; servT: 5)
+>>2 -> (arrT: 38; servT: 3)
+>>4 -> (arrT: 17; servT: 1)
+>>5 -> (arrT: 17; servT: 3)
+>>6 -> (arrT: 23; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>9 -> (arrT: 12; servT: 4)
+>>10 -> (arrT: 14; servT: 6)
+>>11 -> (arrT: 14; servT: 2)
+>>13 -> (arrT: 20; servT: 6)
+>>14 -> (arrT: 34; servT: 4)
+>>16 -> (arrT: 16; servT: 4)
+>>17 -> (arrT: 22; servT: 7)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>20 -> (arrT: 7; servT: 3)
+>>22 -> (arrT: 11; servT: 3)
+>>23 -> (arrT: 9; servT: 7)
+>>24 -> (arrT: 12; servT: 4)
+>>25 -> (arrT: 9; servT: 2)
+>>26 -> (arrT: 38; servT: 1)
+>>28 -> (arrT: 12; servT: 4)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>31 -> (arrT: 16; servT: 2)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>35 -> (arrT: 24; servT: 5)
+>>36 -> (arrT: 22; servT: 5)
+>>37 -> (arrT: 39; servT: 1)
+>>38 -> (arrT: 9; servT: 4)
+>>39 -> (arrT: 28; servT: 1)
+>>40 -> (arrT: 9; servT: 5)
+>>41 -> (arrT: 13; servT: 2)
+>>42 -> (arrT: 37; servT: 3)
+>>43 -> (arrT: 10; servT: 7)
+>>44 -> (arrT: 30; servT: 6)
+>>45 -> (arrT: 26; servT: 4)
+>>46 -> (arrT: 33; servT: 5)
+>>50 -> (arrT: 16; servT: 4)
+
+State of servers:
+server: <Thread #1> has amount of work: 2
+	3 -> (arrT: 3; servT: 3)
+	34 -> (arrT: 5; servT: 7)
+server: <Thread #2> has amount of work: 2
+	47 -> (arrT: 5; servT: 7)
+	21 -> (arrT: 6; servT: 3)
+server: <Thread #3> has amount of work: 2
+	27 -> (arrT: 3; servT: 2)
+	48 -> (arrT: 6; servT: 7)
+server: <Thread #4> has amount of work: 2
+	8 -> (arrT: 4; servT: 2)
+	49 -> (arrT: 6; servT: 4)
+server: <Thread #5> has amount of work: 1
+	12 -> (arrT: 4; servT: 1)
+
+
+Current time: 7
+Waiting people:
+>>1 -> (arrT: 13; servT: 5)
+>>2 -> (arrT: 38; servT: 3)
+>>4 -> (arrT: 17; servT: 1)
+>>5 -> (arrT: 17; servT: 3)
+>>6 -> (arrT: 23; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>9 -> (arrT: 12; servT: 4)
+>>10 -> (arrT: 14; servT: 6)
+>>11 -> (arrT: 14; servT: 2)
+>>13 -> (arrT: 20; servT: 6)
+>>14 -> (arrT: 34; servT: 4)
+>>16 -> (arrT: 16; servT: 4)
+>>17 -> (arrT: 22; servT: 7)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>22 -> (arrT: 11; servT: 3)
+>>23 -> (arrT: 9; servT: 7)
+>>24 -> (arrT: 12; servT: 4)
+>>25 -> (arrT: 9; servT: 2)
+>>26 -> (arrT: 38; servT: 1)
+>>28 -> (arrT: 12; servT: 4)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>31 -> (arrT: 16; servT: 2)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>35 -> (arrT: 24; servT: 5)
+>>36 -> (arrT: 22; servT: 5)
+>>37 -> (arrT: 39; servT: 1)
+>>38 -> (arrT: 9; servT: 4)
+>>39 -> (arrT: 28; servT: 1)
+>>40 -> (arrT: 9; servT: 5)
+>>41 -> (arrT: 13; servT: 2)
+>>42 -> (arrT: 37; servT: 3)
+>>43 -> (arrT: 10; servT: 7)
+>>44 -> (arrT: 30; servT: 6)
+>>45 -> (arrT: 26; servT: 4)
+>>46 -> (arrT: 33; servT: 5)
+>>50 -> (arrT: 16; servT: 4)
+
+State of servers:
+server: <Thread #1> has amount of work: 2
+	3 -> (arrT: 3; servT: 2)
+	34 -> (arrT: 5; servT: 7)
+server: <Thread #2> has amount of work: 2
+	47 -> (arrT: 5; servT: 6)
+	21 -> (arrT: 6; servT: 3)
+server: <Thread #3> has amount of work: 2
+	27 -> (arrT: 3; servT: 1)
+	48 -> (arrT: 6; servT: 7)
+server: <Thread #4> has amount of work: 2
+	8 -> (arrT: 4; servT: 1)
+	49 -> (arrT: 6; servT: 4)
+server: <Thread #5> has amount of work: 1
+	20 -> (arrT: 7; servT: 3)
+
+
+Current time: 8
+Waiting people:
+>>1 -> (arrT: 13; servT: 5)
+>>2 -> (arrT: 38; servT: 3)
+>>4 -> (arrT: 17; servT: 1)
+>>5 -> (arrT: 17; servT: 3)
+>>6 -> (arrT: 23; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>9 -> (arrT: 12; servT: 4)
+>>10 -> (arrT: 14; servT: 6)
+>>11 -> (arrT: 14; servT: 2)
+>>13 -> (arrT: 20; servT: 6)
+>>14 -> (arrT: 34; servT: 4)
+>>16 -> (arrT: 16; servT: 4)
+>>17 -> (arrT: 22; servT: 7)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>22 -> (arrT: 11; servT: 3)
+>>23 -> (arrT: 9; servT: 7)
+>>24 -> (arrT: 12; servT: 4)
+>>25 -> (arrT: 9; servT: 2)
+>>26 -> (arrT: 38; servT: 1)
+>>28 -> (arrT: 12; servT: 4)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>31 -> (arrT: 16; servT: 2)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>35 -> (arrT: 24; servT: 5)
+>>36 -> (arrT: 22; servT: 5)
+>>37 -> (arrT: 39; servT: 1)
+>>38 -> (arrT: 9; servT: 4)
+>>39 -> (arrT: 28; servT: 1)
+>>40 -> (arrT: 9; servT: 5)
+>>41 -> (arrT: 13; servT: 2)
+>>42 -> (arrT: 37; servT: 3)
+>>43 -> (arrT: 10; servT: 7)
+>>44 -> (arrT: 30; servT: 6)
+>>45 -> (arrT: 26; servT: 4)
+>>46 -> (arrT: 33; servT: 5)
+>>50 -> (arrT: 16; servT: 4)
+
+State of servers:
+server: <Thread #1> has amount of work: 2
+	3 -> (arrT: 3; servT: 1)
+	34 -> (arrT: 5; servT: 7)
+server: <Thread #2> has amount of work: 2
+	47 -> (arrT: 5; servT: 5)
+	21 -> (arrT: 6; servT: 3)
+server: <Thread #3> has amount of work: 1
+	48 -> (arrT: 6; servT: 7)
+server: <Thread #4> has amount of work: 1
+	49 -> (arrT: 6; servT: 4)
+server: <Thread #5> has amount of work: 1
+	20 -> (arrT: 7; servT: 2)
+
+
+Current time: 9
+Waiting people:
+>>1 -> (arrT: 13; servT: 5)
+>>2 -> (arrT: 38; servT: 3)
+>>4 -> (arrT: 17; servT: 1)
+>>5 -> (arrT: 17; servT: 3)
+>>6 -> (arrT: 23; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>9 -> (arrT: 12; servT: 4)
+>>10 -> (arrT: 14; servT: 6)
+>>11 -> (arrT: 14; servT: 2)
+>>13 -> (arrT: 20; servT: 6)
+>>14 -> (arrT: 34; servT: 4)
+>>16 -> (arrT: 16; servT: 4)
+>>17 -> (arrT: 22; servT: 7)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>22 -> (arrT: 11; servT: 3)
+>>24 -> (arrT: 12; servT: 4)
+>>26 -> (arrT: 38; servT: 1)
+>>28 -> (arrT: 12; servT: 4)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>31 -> (arrT: 16; servT: 2)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>35 -> (arrT: 24; servT: 5)
+>>36 -> (arrT: 22; servT: 5)
+>>37 -> (arrT: 39; servT: 1)
+>>39 -> (arrT: 28; servT: 1)
+>>41 -> (arrT: 13; servT: 2)
+>>42 -> (arrT: 37; servT: 3)
+>>43 -> (arrT: 10; servT: 7)
+>>44 -> (arrT: 30; servT: 6)
+>>45 -> (arrT: 26; servT: 4)
+>>46 -> (arrT: 33; servT: 5)
+>>50 -> (arrT: 16; servT: 4)
+
+State of servers:
+server: <Thread #1> has amount of work: 2
+	34 -> (arrT: 5; servT: 7)
+	23 -> (arrT: 9; servT: 7)
+server: <Thread #2> has amount of work: 2
+	47 -> (arrT: 5; servT: 4)
+	21 -> (arrT: 6; servT: 3)
+server: <Thread #3> has amount of work: 2
+	48 -> (arrT: 6; servT: 6)
+	25 -> (arrT: 9; servT: 2)
+server: <Thread #4> has amount of work: 2
+	49 -> (arrT: 6; servT: 3)
+	38 -> (arrT: 9; servT: 4)
+server: <Thread #5> has amount of work: 2
+	20 -> (arrT: 7; servT: 1)
+	40 -> (arrT: 9; servT: 5)
+
+
+Current time: 10
+Waiting people:
+>>1 -> (arrT: 13; servT: 5)
+>>2 -> (arrT: 38; servT: 3)
+>>4 -> (arrT: 17; servT: 1)
+>>5 -> (arrT: 17; servT: 3)
+>>6 -> (arrT: 23; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>9 -> (arrT: 12; servT: 4)
+>>10 -> (arrT: 14; servT: 6)
+>>11 -> (arrT: 14; servT: 2)
+>>13 -> (arrT: 20; servT: 6)
+>>14 -> (arrT: 34; servT: 4)
+>>16 -> (arrT: 16; servT: 4)
+>>17 -> (arrT: 22; servT: 7)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>22 -> (arrT: 11; servT: 3)
+>>24 -> (arrT: 12; servT: 4)
+>>26 -> (arrT: 38; servT: 1)
+>>28 -> (arrT: 12; servT: 4)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>31 -> (arrT: 16; servT: 2)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>35 -> (arrT: 24; servT: 5)
+>>36 -> (arrT: 22; servT: 5)
+>>37 -> (arrT: 39; servT: 1)
+>>39 -> (arrT: 28; servT: 1)
+>>41 -> (arrT: 13; servT: 2)
+>>42 -> (arrT: 37; servT: 3)
+>>44 -> (arrT: 30; servT: 6)
+>>45 -> (arrT: 26; servT: 4)
+>>46 -> (arrT: 33; servT: 5)
+>>50 -> (arrT: 16; servT: 4)
+
+State of servers:
+server: <Thread #1> has amount of work: 2
+	34 -> (arrT: 5; servT: 6)
+	23 -> (arrT: 9; servT: 7)
+server: <Thread #2> has amount of work: 2
+	47 -> (arrT: 5; servT: 3)
+	21 -> (arrT: 6; servT: 3)
+server: <Thread #3> has amount of work: 2
+	48 -> (arrT: 6; servT: 5)
+	25 -> (arrT: 9; servT: 2)
+server: <Thread #4> has amount of work: 2
+	49 -> (arrT: 6; servT: 2)
+	38 -> (arrT: 9; servT: 4)
+server: <Thread #5> has amount of work: 2
+	40 -> (arrT: 9; servT: 5)
+	43 -> (arrT: 10; servT: 7)
+
+
+Current time: 11
+Waiting people:
+>>1 -> (arrT: 13; servT: 5)
+>>2 -> (arrT: 38; servT: 3)
+>>4 -> (arrT: 17; servT: 1)
+>>5 -> (arrT: 17; servT: 3)
+>>6 -> (arrT: 23; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>9 -> (arrT: 12; servT: 4)
+>>10 -> (arrT: 14; servT: 6)
+>>11 -> (arrT: 14; servT: 2)
+>>13 -> (arrT: 20; servT: 6)
+>>14 -> (arrT: 34; servT: 4)
+>>16 -> (arrT: 16; servT: 4)
+>>17 -> (arrT: 22; servT: 7)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>24 -> (arrT: 12; servT: 4)
+>>26 -> (arrT: 38; servT: 1)
+>>28 -> (arrT: 12; servT: 4)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>31 -> (arrT: 16; servT: 2)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>35 -> (arrT: 24; servT: 5)
+>>36 -> (arrT: 22; servT: 5)
+>>37 -> (arrT: 39; servT: 1)
+>>39 -> (arrT: 28; servT: 1)
+>>41 -> (arrT: 13; servT: 2)
+>>42 -> (arrT: 37; servT: 3)
+>>44 -> (arrT: 30; servT: 6)
+>>45 -> (arrT: 26; servT: 4)
+>>46 -> (arrT: 33; servT: 5)
+>>50 -> (arrT: 16; servT: 4)
+
+State of servers:
+server: <Thread #1> has amount of work: 3
+	34 -> (arrT: 5; servT: 5)
+	23 -> (arrT: 9; servT: 7)
+	22 -> (arrT: 11; servT: 3)
+server: <Thread #2> has amount of work: 2
+	47 -> (arrT: 5; servT: 2)
+	21 -> (arrT: 6; servT: 3)
+server: <Thread #3> has amount of work: 2
+	48 -> (arrT: 6; servT: 4)
+	25 -> (arrT: 9; servT: 2)
+server: <Thread #4> has amount of work: 2
+	49 -> (arrT: 6; servT: 1)
+	38 -> (arrT: 9; servT: 4)
+server: <Thread #5> has amount of work: 2
+	40 -> (arrT: 9; servT: 4)
+	43 -> (arrT: 10; servT: 7)
+
+
+Current time: 12
+Waiting people:
+>>1 -> (arrT: 13; servT: 5)
+>>2 -> (arrT: 38; servT: 3)
+>>4 -> (arrT: 17; servT: 1)
+>>5 -> (arrT: 17; servT: 3)
+>>6 -> (arrT: 23; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>10 -> (arrT: 14; servT: 6)
+>>11 -> (arrT: 14; servT: 2)
+>>13 -> (arrT: 20; servT: 6)
+>>14 -> (arrT: 34; servT: 4)
+>>16 -> (arrT: 16; servT: 4)
+>>17 -> (arrT: 22; servT: 7)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>26 -> (arrT: 38; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>31 -> (arrT: 16; servT: 2)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>35 -> (arrT: 24; servT: 5)
+>>36 -> (arrT: 22; servT: 5)
+>>37 -> (arrT: 39; servT: 1)
+>>39 -> (arrT: 28; servT: 1)
+>>41 -> (arrT: 13; servT: 2)
+>>42 -> (arrT: 37; servT: 3)
+>>44 -> (arrT: 30; servT: 6)
+>>45 -> (arrT: 26; servT: 4)
+>>46 -> (arrT: 33; servT: 5)
+>>50 -> (arrT: 16; servT: 4)
+
+State of servers:
+server: <Thread #1> has amount of work: 3
+	34 -> (arrT: 5; servT: 4)
+	23 -> (arrT: 9; servT: 7)
+	22 -> (arrT: 11; servT: 3)
+server: <Thread #2> has amount of work: 3
+	47 -> (arrT: 5; servT: 1)
+	21 -> (arrT: 6; servT: 3)
+	24 -> (arrT: 12; servT: 4)
+server: <Thread #3> has amount of work: 3
+	48 -> (arrT: 6; servT: 3)
+	25 -> (arrT: 9; servT: 2)
+	28 -> (arrT: 12; servT: 4)
+server: <Thread #4> has amount of work: 2
+	38 -> (arrT: 9; servT: 4)
+	9 -> (arrT: 12; servT: 4)
+server: <Thread #5> has amount of work: 2
+	40 -> (arrT: 9; servT: 3)
+	43 -> (arrT: 10; servT: 7)
+
+
+Current time: 13
+Waiting people:
+>>2 -> (arrT: 38; servT: 3)
+>>4 -> (arrT: 17; servT: 1)
+>>5 -> (arrT: 17; servT: 3)
+>>6 -> (arrT: 23; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>10 -> (arrT: 14; servT: 6)
+>>11 -> (arrT: 14; servT: 2)
+>>13 -> (arrT: 20; servT: 6)
+>>14 -> (arrT: 34; servT: 4)
+>>16 -> (arrT: 16; servT: 4)
+>>17 -> (arrT: 22; servT: 7)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>26 -> (arrT: 38; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>31 -> (arrT: 16; servT: 2)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>35 -> (arrT: 24; servT: 5)
+>>36 -> (arrT: 22; servT: 5)
+>>37 -> (arrT: 39; servT: 1)
+>>39 -> (arrT: 28; servT: 1)
+>>42 -> (arrT: 37; servT: 3)
+>>44 -> (arrT: 30; servT: 6)
+>>45 -> (arrT: 26; servT: 4)
+>>46 -> (arrT: 33; servT: 5)
+>>50 -> (arrT: 16; servT: 4)
+
+State of servers:
+server: <Thread #1> has amount of work: 3
+	34 -> (arrT: 5; servT: 3)
+	23 -> (arrT: 9; servT: 7)
+	22 -> (arrT: 11; servT: 3)
+server: <Thread #2> has amount of work: 3
+	21 -> (arrT: 6; servT: 3)
+	24 -> (arrT: 12; servT: 4)
+	1 -> (arrT: 13; servT: 5)
+server: <Thread #3> has amount of work: 3
+	48 -> (arrT: 6; servT: 2)
+	25 -> (arrT: 9; servT: 2)
+	28 -> (arrT: 12; servT: 4)
+server: <Thread #4> has amount of work: 3
+	38 -> (arrT: 9; servT: 3)
+	9 -> (arrT: 12; servT: 4)
+	41 -> (arrT: 13; servT: 2)
+server: <Thread #5> has amount of work: 2
+	40 -> (arrT: 9; servT: 2)
+	43 -> (arrT: 10; servT: 7)
+
+
+Current time: 14
+Waiting people:
+>>2 -> (arrT: 38; servT: 3)
+>>4 -> (arrT: 17; servT: 1)
+>>5 -> (arrT: 17; servT: 3)
+>>6 -> (arrT: 23; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>13 -> (arrT: 20; servT: 6)
+>>14 -> (arrT: 34; servT: 4)
+>>16 -> (arrT: 16; servT: 4)
+>>17 -> (arrT: 22; servT: 7)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>26 -> (arrT: 38; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>31 -> (arrT: 16; servT: 2)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>35 -> (arrT: 24; servT: 5)
+>>36 -> (arrT: 22; servT: 5)
+>>37 -> (arrT: 39; servT: 1)
+>>39 -> (arrT: 28; servT: 1)
+>>42 -> (arrT: 37; servT: 3)
+>>44 -> (arrT: 30; servT: 6)
+>>45 -> (arrT: 26; servT: 4)
+>>46 -> (arrT: 33; servT: 5)
+>>50 -> (arrT: 16; servT: 4)
+
+State of servers:
+server: <Thread #1> has amount of work: 4
+	34 -> (arrT: 5; servT: 2)
+	23 -> (arrT: 9; servT: 7)
+	22 -> (arrT: 11; servT: 3)
+	11 -> (arrT: 14; servT: 2)
+server: <Thread #2> has amount of work: 3
+	21 -> (arrT: 6; servT: 2)
+	24 -> (arrT: 12; servT: 4)
+	1 -> (arrT: 13; servT: 5)
+server: <Thread #3> has amount of work: 3
+	48 -> (arrT: 6; servT: 1)
+	25 -> (arrT: 9; servT: 2)
+	28 -> (arrT: 12; servT: 4)
+server: <Thread #4> has amount of work: 3
+	38 -> (arrT: 9; servT: 2)
+	9 -> (arrT: 12; servT: 4)
+	41 -> (arrT: 13; servT: 2)
+server: <Thread #5> has amount of work: 3
+	40 -> (arrT: 9; servT: 1)
+	43 -> (arrT: 10; servT: 7)
+	10 -> (arrT: 14; servT: 6)
+
+
+Current time: 15
+Waiting people:
+>>2 -> (arrT: 38; servT: 3)
+>>4 -> (arrT: 17; servT: 1)
+>>5 -> (arrT: 17; servT: 3)
+>>6 -> (arrT: 23; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>13 -> (arrT: 20; servT: 6)
+>>14 -> (arrT: 34; servT: 4)
+>>16 -> (arrT: 16; servT: 4)
+>>17 -> (arrT: 22; servT: 7)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>26 -> (arrT: 38; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>31 -> (arrT: 16; servT: 2)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>35 -> (arrT: 24; servT: 5)
+>>36 -> (arrT: 22; servT: 5)
+>>37 -> (arrT: 39; servT: 1)
+>>39 -> (arrT: 28; servT: 1)
+>>42 -> (arrT: 37; servT: 3)
+>>44 -> (arrT: 30; servT: 6)
+>>45 -> (arrT: 26; servT: 4)
+>>46 -> (arrT: 33; servT: 5)
+>>50 -> (arrT: 16; servT: 4)
+
+State of servers:
+server: <Thread #1> has amount of work: 4
+	34 -> (arrT: 5; servT: 1)
+	23 -> (arrT: 9; servT: 7)
+	22 -> (arrT: 11; servT: 3)
+	11 -> (arrT: 14; servT: 2)
+server: <Thread #2> has amount of work: 3
+	21 -> (arrT: 6; servT: 1)
+	24 -> (arrT: 12; servT: 4)
+	1 -> (arrT: 13; servT: 5)
+server: <Thread #3> has amount of work: 2
+	25 -> (arrT: 9; servT: 2)
+	28 -> (arrT: 12; servT: 4)
+server: <Thread #4> has amount of work: 3
+	38 -> (arrT: 9; servT: 1)
+	9 -> (arrT: 12; servT: 4)
+	41 -> (arrT: 13; servT: 2)
+server: <Thread #5> has amount of work: 2
+	43 -> (arrT: 10; servT: 7)
+	10 -> (arrT: 14; servT: 6)
+
+
+Current time: 16
+Waiting people:
+>>2 -> (arrT: 38; servT: 3)
+>>4 -> (arrT: 17; servT: 1)
+>>5 -> (arrT: 17; servT: 3)
+>>6 -> (arrT: 23; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>13 -> (arrT: 20; servT: 6)
+>>14 -> (arrT: 34; servT: 4)
+>>17 -> (arrT: 22; servT: 7)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>26 -> (arrT: 38; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>35 -> (arrT: 24; servT: 5)
+>>36 -> (arrT: 22; servT: 5)
+>>37 -> (arrT: 39; servT: 1)
+>>39 -> (arrT: 28; servT: 1)
+>>42 -> (arrT: 37; servT: 3)
+>>44 -> (arrT: 30; servT: 6)
+>>45 -> (arrT: 26; servT: 4)
+>>46 -> (arrT: 33; servT: 5)
+
+State of servers:
+server: <Thread #1> has amount of work: 3
+	23 -> (arrT: 9; servT: 7)
+	22 -> (arrT: 11; servT: 3)
+	11 -> (arrT: 14; servT: 2)
+server: <Thread #2> has amount of work: 3
+	24 -> (arrT: 12; servT: 4)
+	1 -> (arrT: 13; servT: 5)
+	16 -> (arrT: 16; servT: 4)
+server: <Thread #3> has amount of work: 3
+	25 -> (arrT: 9; servT: 1)
+	28 -> (arrT: 12; servT: 4)
+	31 -> (arrT: 16; servT: 2)
+server: <Thread #4> has amount of work: 3
+	9 -> (arrT: 12; servT: 4)
+	41 -> (arrT: 13; servT: 2)
+	50 -> (arrT: 16; servT: 4)
+server: <Thread #5> has amount of work: 2
+	43 -> (arrT: 10; servT: 6)
+	10 -> (arrT: 14; servT: 6)
+
+
+Current time: 17
+Waiting people:
+>>2 -> (arrT: 38; servT: 3)
+>>6 -> (arrT: 23; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>13 -> (arrT: 20; servT: 6)
+>>14 -> (arrT: 34; servT: 4)
+>>17 -> (arrT: 22; servT: 7)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>26 -> (arrT: 38; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>35 -> (arrT: 24; servT: 5)
+>>36 -> (arrT: 22; servT: 5)
+>>37 -> (arrT: 39; servT: 1)
+>>39 -> (arrT: 28; servT: 1)
+>>42 -> (arrT: 37; servT: 3)
+>>44 -> (arrT: 30; servT: 6)
+>>45 -> (arrT: 26; servT: 4)
+>>46 -> (arrT: 33; servT: 5)
+
+State of servers:
+server: <Thread #1> has amount of work: 3
+	23 -> (arrT: 9; servT: 6)
+	22 -> (arrT: 11; servT: 3)
+	11 -> (arrT: 14; servT: 2)
+server: <Thread #2> has amount of work: 3
+	24 -> (arrT: 12; servT: 3)
+	1 -> (arrT: 13; servT: 5)
+	16 -> (arrT: 16; servT: 4)
+server: <Thread #3> has amount of work: 3
+	28 -> (arrT: 12; servT: 4)
+	31 -> (arrT: 16; servT: 2)
+	4 -> (arrT: 17; servT: 1)
+server: <Thread #4> has amount of work: 3
+	9 -> (arrT: 12; servT: 3)
+	41 -> (arrT: 13; servT: 2)
+	50 -> (arrT: 16; servT: 4)
+server: <Thread #5> has amount of work: 3
+	43 -> (arrT: 10; servT: 5)
+	10 -> (arrT: 14; servT: 6)
+	5 -> (arrT: 17; servT: 3)
+
+
+Current time: 18
+Waiting people:
+>>2 -> (arrT: 38; servT: 3)
+>>6 -> (arrT: 23; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>13 -> (arrT: 20; servT: 6)
+>>14 -> (arrT: 34; servT: 4)
+>>17 -> (arrT: 22; servT: 7)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>26 -> (arrT: 38; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>35 -> (arrT: 24; servT: 5)
+>>36 -> (arrT: 22; servT: 5)
+>>37 -> (arrT: 39; servT: 1)
+>>39 -> (arrT: 28; servT: 1)
+>>42 -> (arrT: 37; servT: 3)
+>>44 -> (arrT: 30; servT: 6)
+>>45 -> (arrT: 26; servT: 4)
+>>46 -> (arrT: 33; servT: 5)
+
+State of servers:
+server: <Thread #1> has amount of work: 3
+	23 -> (arrT: 9; servT: 5)
+	22 -> (arrT: 11; servT: 3)
+	11 -> (arrT: 14; servT: 2)
+server: <Thread #2> has amount of work: 3
+	24 -> (arrT: 12; servT: 2)
+	1 -> (arrT: 13; servT: 5)
+	16 -> (arrT: 16; servT: 4)
+server: <Thread #3> has amount of work: 3
+	28 -> (arrT: 12; servT: 3)
+	31 -> (arrT: 16; servT: 2)
+	4 -> (arrT: 17; servT: 1)
+server: <Thread #4> has amount of work: 3
+	9 -> (arrT: 12; servT: 2)
+	41 -> (arrT: 13; servT: 2)
+	50 -> (arrT: 16; servT: 4)
+server: <Thread #5> has amount of work: 3
+	43 -> (arrT: 10; servT: 4)
+	10 -> (arrT: 14; servT: 6)
+	5 -> (arrT: 17; servT: 3)
+
+
+Current time: 19
+Waiting people:
+>>2 -> (arrT: 38; servT: 3)
+>>6 -> (arrT: 23; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>13 -> (arrT: 20; servT: 6)
+>>14 -> (arrT: 34; servT: 4)
+>>17 -> (arrT: 22; servT: 7)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>26 -> (arrT: 38; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>35 -> (arrT: 24; servT: 5)
+>>36 -> (arrT: 22; servT: 5)
+>>37 -> (arrT: 39; servT: 1)
+>>39 -> (arrT: 28; servT: 1)
+>>42 -> (arrT: 37; servT: 3)
+>>44 -> (arrT: 30; servT: 6)
+>>45 -> (arrT: 26; servT: 4)
+>>46 -> (arrT: 33; servT: 5)
+
+State of servers:
+server: <Thread #1> has amount of work: 3
+	23 -> (arrT: 9; servT: 4)
+	22 -> (arrT: 11; servT: 3)
+	11 -> (arrT: 14; servT: 2)
+server: <Thread #2> has amount of work: 3
+	24 -> (arrT: 12; servT: 1)
+	1 -> (arrT: 13; servT: 5)
+	16 -> (arrT: 16; servT: 4)
+server: <Thread #3> has amount of work: 3
+	28 -> (arrT: 12; servT: 2)
+	31 -> (arrT: 16; servT: 2)
+	4 -> (arrT: 17; servT: 1)
+server: <Thread #4> has amount of work: 3
+	9 -> (arrT: 12; servT: 1)
+	41 -> (arrT: 13; servT: 2)
+	50 -> (arrT: 16; servT: 4)
+server: <Thread #5> has amount of work: 3
+	43 -> (arrT: 10; servT: 3)
+	10 -> (arrT: 14; servT: 6)
+	5 -> (arrT: 17; servT: 3)
+
+
+Current time: 20
+Waiting people:
+>>2 -> (arrT: 38; servT: 3)
+>>6 -> (arrT: 23; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>14 -> (arrT: 34; servT: 4)
+>>17 -> (arrT: 22; servT: 7)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>26 -> (arrT: 38; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>35 -> (arrT: 24; servT: 5)
+>>36 -> (arrT: 22; servT: 5)
+>>37 -> (arrT: 39; servT: 1)
+>>39 -> (arrT: 28; servT: 1)
+>>42 -> (arrT: 37; servT: 3)
+>>44 -> (arrT: 30; servT: 6)
+>>45 -> (arrT: 26; servT: 4)
+>>46 -> (arrT: 33; servT: 5)
+
+State of servers:
+server: <Thread #1> has amount of work: 3
+	23 -> (arrT: 9; servT: 3)
+	22 -> (arrT: 11; servT: 3)
+	11 -> (arrT: 14; servT: 2)
+server: <Thread #2> has amount of work: 3
+	1 -> (arrT: 13; servT: 5)
+	16 -> (arrT: 16; servT: 4)
+	13 -> (arrT: 20; servT: 6)
+server: <Thread #3> has amount of work: 3
+	28 -> (arrT: 12; servT: 1)
+	31 -> (arrT: 16; servT: 2)
+	4 -> (arrT: 17; servT: 1)
+server: <Thread #4> has amount of work: 2
+	41 -> (arrT: 13; servT: 2)
+	50 -> (arrT: 16; servT: 4)
+server: <Thread #5> has amount of work: 3
+	43 -> (arrT: 10; servT: 2)
+	10 -> (arrT: 14; servT: 6)
+	5 -> (arrT: 17; servT: 3)
+
+
+Current time: 21
+Waiting people:
+>>2 -> (arrT: 38; servT: 3)
+>>6 -> (arrT: 23; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>14 -> (arrT: 34; servT: 4)
+>>17 -> (arrT: 22; servT: 7)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>26 -> (arrT: 38; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>35 -> (arrT: 24; servT: 5)
+>>36 -> (arrT: 22; servT: 5)
+>>37 -> (arrT: 39; servT: 1)
+>>39 -> (arrT: 28; servT: 1)
+>>42 -> (arrT: 37; servT: 3)
+>>44 -> (arrT: 30; servT: 6)
+>>45 -> (arrT: 26; servT: 4)
+>>46 -> (arrT: 33; servT: 5)
+
+State of servers:
+server: <Thread #1> has amount of work: 3
+	23 -> (arrT: 9; servT: 2)
+	22 -> (arrT: 11; servT: 3)
+	11 -> (arrT: 14; servT: 2)
+server: <Thread #2> has amount of work: 3
+	1 -> (arrT: 13; servT: 4)
+	16 -> (arrT: 16; servT: 4)
+	13 -> (arrT: 20; servT: 6)
+server: <Thread #3> has amount of work: 2
+	31 -> (arrT: 16; servT: 2)
+	4 -> (arrT: 17; servT: 1)
+server: <Thread #4> has amount of work: 2
+	41 -> (arrT: 13; servT: 1)
+	50 -> (arrT: 16; servT: 4)
+server: <Thread #5> has amount of work: 3
+	43 -> (arrT: 10; servT: 1)
+	10 -> (arrT: 14; servT: 6)
+	5 -> (arrT: 17; servT: 3)
+
+
+Current time: 22
+Waiting people:
+>>2 -> (arrT: 38; servT: 3)
+>>6 -> (arrT: 23; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>14 -> (arrT: 34; servT: 4)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>26 -> (arrT: 38; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>35 -> (arrT: 24; servT: 5)
+>>37 -> (arrT: 39; servT: 1)
+>>39 -> (arrT: 28; servT: 1)
+>>42 -> (arrT: 37; servT: 3)
+>>44 -> (arrT: 30; servT: 6)
+>>45 -> (arrT: 26; servT: 4)
+>>46 -> (arrT: 33; servT: 5)
+
+State of servers:
+server: <Thread #1> has amount of work: 3
+	23 -> (arrT: 9; servT: 1)
+	22 -> (arrT: 11; servT: 3)
+	11 -> (arrT: 14; servT: 2)
+server: <Thread #2> has amount of work: 3
+	1 -> (arrT: 13; servT: 3)
+	16 -> (arrT: 16; servT: 4)
+	13 -> (arrT: 20; servT: 6)
+server: <Thread #3> has amount of work: 3
+	31 -> (arrT: 16; servT: 1)
+	4 -> (arrT: 17; servT: 1)
+	36 -> (arrT: 22; servT: 5)
+server: <Thread #4> has amount of work: 2
+	50 -> (arrT: 16; servT: 4)
+	17 -> (arrT: 22; servT: 7)
+server: <Thread #5> has amount of work: 2
+	10 -> (arrT: 14; servT: 6)
+	5 -> (arrT: 17; servT: 3)
+
+
+Current time: 23
+Waiting people:
+>>2 -> (arrT: 38; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>14 -> (arrT: 34; servT: 4)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>26 -> (arrT: 38; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>35 -> (arrT: 24; servT: 5)
+>>37 -> (arrT: 39; servT: 1)
+>>39 -> (arrT: 28; servT: 1)
+>>42 -> (arrT: 37; servT: 3)
+>>44 -> (arrT: 30; servT: 6)
+>>45 -> (arrT: 26; servT: 4)
+>>46 -> (arrT: 33; servT: 5)
+
+State of servers:
+server: <Thread #1> has amount of work: 3
+	22 -> (arrT: 11; servT: 3)
+	11 -> (arrT: 14; servT: 2)
+	6 -> (arrT: 23; servT: 3)
+server: <Thread #2> has amount of work: 3
+	1 -> (arrT: 13; servT: 2)
+	16 -> (arrT: 16; servT: 4)
+	13 -> (arrT: 20; servT: 6)
+server: <Thread #3> has amount of work: 2
+	4 -> (arrT: 17; servT: 1)
+	36 -> (arrT: 22; servT: 5)
+server: <Thread #4> has amount of work: 2
+	50 -> (arrT: 16; servT: 3)
+	17 -> (arrT: 22; servT: 7)
+server: <Thread #5> has amount of work: 2
+	10 -> (arrT: 14; servT: 5)
+	5 -> (arrT: 17; servT: 3)
+
+
+Current time: 24
+Waiting people:
+>>2 -> (arrT: 38; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>14 -> (arrT: 34; servT: 4)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>26 -> (arrT: 38; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>37 -> (arrT: 39; servT: 1)
+>>39 -> (arrT: 28; servT: 1)
+>>42 -> (arrT: 37; servT: 3)
+>>44 -> (arrT: 30; servT: 6)
+>>45 -> (arrT: 26; servT: 4)
+>>46 -> (arrT: 33; servT: 5)
+
+State of servers:
+server: <Thread #1> has amount of work: 3
+	22 -> (arrT: 11; servT: 2)
+	11 -> (arrT: 14; servT: 2)
+	6 -> (arrT: 23; servT: 3)
+server: <Thread #2> has amount of work: 3
+	1 -> (arrT: 13; servT: 1)
+	16 -> (arrT: 16; servT: 4)
+	13 -> (arrT: 20; servT: 6)
+server: <Thread #3> has amount of work: 2
+	36 -> (arrT: 22; servT: 5)
+	35 -> (arrT: 24; servT: 5)
+server: <Thread #4> has amount of work: 2
+	50 -> (arrT: 16; servT: 2)
+	17 -> (arrT: 22; servT: 7)
+server: <Thread #5> has amount of work: 2
+	10 -> (arrT: 14; servT: 4)
+	5 -> (arrT: 17; servT: 3)
+
+
+Current time: 25
+Waiting people:
+>>2 -> (arrT: 38; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>14 -> (arrT: 34; servT: 4)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>26 -> (arrT: 38; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>37 -> (arrT: 39; servT: 1)
+>>39 -> (arrT: 28; servT: 1)
+>>42 -> (arrT: 37; servT: 3)
+>>44 -> (arrT: 30; servT: 6)
+>>45 -> (arrT: 26; servT: 4)
+>>46 -> (arrT: 33; servT: 5)
+
+State of servers:
+server: <Thread #1> has amount of work: 3
+	22 -> (arrT: 11; servT: 1)
+	11 -> (arrT: 14; servT: 2)
+	6 -> (arrT: 23; servT: 3)
+server: <Thread #2> has amount of work: 2
+	16 -> (arrT: 16; servT: 4)
+	13 -> (arrT: 20; servT: 6)
+server: <Thread #3> has amount of work: 2
+	36 -> (arrT: 22; servT: 4)
+	35 -> (arrT: 24; servT: 5)
+server: <Thread #4> has amount of work: 2
+	50 -> (arrT: 16; servT: 1)
+	17 -> (arrT: 22; servT: 7)
+server: <Thread #5> has amount of work: 2
+	10 -> (arrT: 14; servT: 3)
+	5 -> (arrT: 17; servT: 3)
+
+
+Current time: 26
+Waiting people:
+>>2 -> (arrT: 38; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>14 -> (arrT: 34; servT: 4)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>26 -> (arrT: 38; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>37 -> (arrT: 39; servT: 1)
+>>39 -> (arrT: 28; servT: 1)
+>>42 -> (arrT: 37; servT: 3)
+>>44 -> (arrT: 30; servT: 6)
+>>46 -> (arrT: 33; servT: 5)
+
+State of servers:
+server: <Thread #1> has amount of work: 2
+	11 -> (arrT: 14; servT: 2)
+	6 -> (arrT: 23; servT: 3)
+server: <Thread #2> has amount of work: 2
+	16 -> (arrT: 16; servT: 3)
+	13 -> (arrT: 20; servT: 6)
+server: <Thread #3> has amount of work: 2
+	36 -> (arrT: 22; servT: 3)
+	35 -> (arrT: 24; servT: 5)
+server: <Thread #4> has amount of work: 2
+	17 -> (arrT: 22; servT: 7)
+	45 -> (arrT: 26; servT: 4)
+server: <Thread #5> has amount of work: 2
+	10 -> (arrT: 14; servT: 2)
+	5 -> (arrT: 17; servT: 3)
+
+
+Current time: 27
+Waiting people:
+>>2 -> (arrT: 38; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>14 -> (arrT: 34; servT: 4)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>26 -> (arrT: 38; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>37 -> (arrT: 39; servT: 1)
+>>39 -> (arrT: 28; servT: 1)
+>>42 -> (arrT: 37; servT: 3)
+>>44 -> (arrT: 30; servT: 6)
+>>46 -> (arrT: 33; servT: 5)
+
+State of servers:
+server: <Thread #1> has amount of work: 2
+	11 -> (arrT: 14; servT: 1)
+	6 -> (arrT: 23; servT: 3)
+server: <Thread #2> has amount of work: 2
+	16 -> (arrT: 16; servT: 2)
+	13 -> (arrT: 20; servT: 6)
+server: <Thread #3> has amount of work: 2
+	36 -> (arrT: 22; servT: 2)
+	35 -> (arrT: 24; servT: 5)
+server: <Thread #4> has amount of work: 2
+	17 -> (arrT: 22; servT: 6)
+	45 -> (arrT: 26; servT: 4)
+server: <Thread #5> has amount of work: 2
+	10 -> (arrT: 14; servT: 1)
+	5 -> (arrT: 17; servT: 3)
+
+
+Current time: 28
+Waiting people:
+>>2 -> (arrT: 38; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>14 -> (arrT: 34; servT: 4)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>26 -> (arrT: 38; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>37 -> (arrT: 39; servT: 1)
+>>42 -> (arrT: 37; servT: 3)
+>>44 -> (arrT: 30; servT: 6)
+>>46 -> (arrT: 33; servT: 5)
+
+State of servers:
+server: <Thread #1> has amount of work: 2
+	6 -> (arrT: 23; servT: 3)
+	39 -> (arrT: 28; servT: 1)
+server: <Thread #2> has amount of work: 2
+	16 -> (arrT: 16; servT: 1)
+	13 -> (arrT: 20; servT: 6)
+server: <Thread #3> has amount of work: 2
+	36 -> (arrT: 22; servT: 1)
+	35 -> (arrT: 24; servT: 5)
+server: <Thread #4> has amount of work: 2
+	17 -> (arrT: 22; servT: 5)
+	45 -> (arrT: 26; servT: 4)
+server: <Thread #5> has amount of work: 1
+	5 -> (arrT: 17; servT: 3)
+
+
+Current time: 29
+Waiting people:
+>>2 -> (arrT: 38; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>14 -> (arrT: 34; servT: 4)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>26 -> (arrT: 38; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>37 -> (arrT: 39; servT: 1)
+>>42 -> (arrT: 37; servT: 3)
+>>44 -> (arrT: 30; servT: 6)
+>>46 -> (arrT: 33; servT: 5)
+
+State of servers:
+server: <Thread #1> has amount of work: 2
+	6 -> (arrT: 23; servT: 2)
+	39 -> (arrT: 28; servT: 1)
+server: <Thread #2> has amount of work: 1
+	13 -> (arrT: 20; servT: 6)
+server: <Thread #3> has amount of work: 1
+	35 -> (arrT: 24; servT: 5)
+server: <Thread #4> has amount of work: 2
+	17 -> (arrT: 22; servT: 4)
+	45 -> (arrT: 26; servT: 4)
+server: <Thread #5> has amount of work: 1
+	5 -> (arrT: 17; servT: 2)
+
+
+Current time: 30
+Waiting people:
+>>2 -> (arrT: 38; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>14 -> (arrT: 34; servT: 4)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>26 -> (arrT: 38; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>37 -> (arrT: 39; servT: 1)
+>>42 -> (arrT: 37; servT: 3)
+>>46 -> (arrT: 33; servT: 5)
+
+State of servers:
+server: <Thread #1> has amount of work: 2
+	6 -> (arrT: 23; servT: 1)
+	39 -> (arrT: 28; servT: 1)
+server: <Thread #2> has amount of work: 2
+	13 -> (arrT: 20; servT: 5)
+	44 -> (arrT: 30; servT: 6)
+server: <Thread #3> has amount of work: 1
+	35 -> (arrT: 24; servT: 4)
+server: <Thread #4> has amount of work: 2
+	17 -> (arrT: 22; servT: 3)
+	45 -> (arrT: 26; servT: 4)
+server: <Thread #5> has amount of work: 1
+	5 -> (arrT: 17; servT: 1)
+
+
+Current time: 31
+Waiting people:
+>>2 -> (arrT: 38; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>14 -> (arrT: 34; servT: 4)
+>>18 -> (arrT: 32; servT: 1)
+>>19 -> (arrT: 40; servT: 1)
+>>26 -> (arrT: 38; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>37 -> (arrT: 39; servT: 1)
+>>42 -> (arrT: 37; servT: 3)
+>>46 -> (arrT: 33; servT: 5)
+
+State of servers:
+server: <Thread #1> has amount of work: 1
+	39 -> (arrT: 28; servT: 1)
+server: <Thread #2> has amount of work: 2
+	13 -> (arrT: 20; servT: 4)
+	44 -> (arrT: 30; servT: 6)
+server: <Thread #3> has amount of work: 1
+	35 -> (arrT: 24; servT: 3)
+server: <Thread #4> has amount of work: 2
+	17 -> (arrT: 22; servT: 2)
+	45 -> (arrT: 26; servT: 4)
+server: <Thread #5> is closed
+
+
+Current time: 32
+Waiting people:
+>>2 -> (arrT: 38; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>14 -> (arrT: 34; servT: 4)
+>>19 -> (arrT: 40; servT: 1)
+>>26 -> (arrT: 38; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>37 -> (arrT: 39; servT: 1)
+>>42 -> (arrT: 37; servT: 3)
+>>46 -> (arrT: 33; servT: 5)
+
+State of servers:
+server: <Thread #1> has amount of work: 1
+	18 -> (arrT: 32; servT: 1)
+server: <Thread #2> has amount of work: 2
+	13 -> (arrT: 20; servT: 3)
+	44 -> (arrT: 30; servT: 6)
+server: <Thread #3> has amount of work: 1
+	35 -> (arrT: 24; servT: 2)
+server: <Thread #4> has amount of work: 2
+	17 -> (arrT: 22; servT: 1)
+	45 -> (arrT: 26; servT: 4)
+server: <Thread #5> is closed
+
+
+Current time: 33
+Waiting people:
+>>2 -> (arrT: 38; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>14 -> (arrT: 34; servT: 4)
+>>19 -> (arrT: 40; servT: 1)
+>>26 -> (arrT: 38; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>37 -> (arrT: 39; servT: 1)
+>>42 -> (arrT: 37; servT: 3)
+
+State of servers:
+server: <Thread #1> has amount of work: 1
+	46 -> (arrT: 33; servT: 5)
+server: <Thread #2> has amount of work: 2
+	13 -> (arrT: 20; servT: 2)
+	44 -> (arrT: 30; servT: 6)
+server: <Thread #3> has amount of work: 1
+	35 -> (arrT: 24; servT: 1)
+server: <Thread #4> has amount of work: 1
+	45 -> (arrT: 26; servT: 4)
+server: <Thread #5> is closed
+
+
+Current time: 34
+Waiting people:
+>>2 -> (arrT: 38; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>19 -> (arrT: 40; servT: 1)
+>>26 -> (arrT: 38; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>37 -> (arrT: 39; servT: 1)
+>>42 -> (arrT: 37; servT: 3)
+
+State of servers:
+server: <Thread #1> has amount of work: 1
+	46 -> (arrT: 33; servT: 4)
+server: <Thread #2> has amount of work: 2
+	13 -> (arrT: 20; servT: 1)
+	44 -> (arrT: 30; servT: 6)
+server: <Thread #3> has amount of work: 1
+	14 -> (arrT: 34; servT: 4)
+server: <Thread #4> has amount of work: 1
+	45 -> (arrT: 26; servT: 3)
+server: <Thread #5> is closed
+
+
+Current time: 35
+Waiting people:
+>>2 -> (arrT: 38; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>19 -> (arrT: 40; servT: 1)
+>>26 -> (arrT: 38; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>32 -> (arrT: 37; servT: 1)
+>>33 -> (arrT: 36; servT: 2)
+>>37 -> (arrT: 39; servT: 1)
+>>42 -> (arrT: 37; servT: 3)
+
+State of servers:
+server: <Thread #1> has amount of work: 1
+	46 -> (arrT: 33; servT: 3)
+server: <Thread #2> has amount of work: 1
+	44 -> (arrT: 30; servT: 6)
+server: <Thread #3> has amount of work: 1
+	14 -> (arrT: 34; servT: 3)
+server: <Thread #4> has amount of work: 1
+	45 -> (arrT: 26; servT: 2)
+server: <Thread #5> is closed
+
+
+Current time: 36
+Waiting people:
+>>2 -> (arrT: 38; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>19 -> (arrT: 40; servT: 1)
+>>26 -> (arrT: 38; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>30 -> (arrT: 37; servT: 4)
+>>32 -> (arrT: 37; servT: 1)
+>>37 -> (arrT: 39; servT: 1)
+>>42 -> (arrT: 37; servT: 3)
+
+State of servers:
+server: <Thread #1> has amount of work: 1
+	46 -> (arrT: 33; servT: 2)
+server: <Thread #2> has amount of work: 1
+	44 -> (arrT: 30; servT: 5)
+server: <Thread #3> has amount of work: 1
+	14 -> (arrT: 34; servT: 2)
+server: <Thread #4> has amount of work: 1
+	45 -> (arrT: 26; servT: 1)
+server: <Thread #5> has amount of work: 1
+	33 -> (arrT: 36; servT: 2)
+
+
+Current time: 37
+Waiting people:
+>>2 -> (arrT: 38; servT: 3)
+>>7 -> (arrT: 39; servT: 4)
+>>19 -> (arrT: 40; servT: 1)
+>>26 -> (arrT: 38; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>37 -> (arrT: 39; servT: 1)
+
+State of servers:
+server: <Thread #1> has amount of work: 2
+	46 -> (arrT: 33; servT: 1)
+	32 -> (arrT: 37; servT: 1)
+server: <Thread #2> has amount of work: 2
+	44 -> (arrT: 30; servT: 4)
+	42 -> (arrT: 37; servT: 3)
+server: <Thread #3> has amount of work: 1
+	14 -> (arrT: 34; servT: 1)
+server: <Thread #4> has amount of work: 1
+	30 -> (arrT: 37; servT: 4)
+server: <Thread #5> has amount of work: 1
+	33 -> (arrT: 36; servT: 1)
+
+
+Current time: 38
+Waiting people:
+>>7 -> (arrT: 39; servT: 4)
+>>19 -> (arrT: 40; servT: 1)
+>>29 -> (arrT: 39; servT: 7)
+>>37 -> (arrT: 39; servT: 1)
+
+State of servers:
+server: <Thread #1> has amount of work: 1
+	32 -> (arrT: 37; servT: 1)
+server: <Thread #2> has amount of work: 2
+	44 -> (arrT: 30; servT: 3)
+	42 -> (arrT: 37; servT: 3)
+server: <Thread #3> has amount of work: 1
+	2 -> (arrT: 38; servT: 3)
+server: <Thread #4> has amount of work: 1
+	30 -> (arrT: 37; servT: 3)
+server: <Thread #5> has amount of work: 1
+	26 -> (arrT: 38; servT: 1)
+
+
+Current time: 39
+Waiting people:
+>>19 -> (arrT: 40; servT: 1)
+
+State of servers:
+server: <Thread #1> has amount of work: 2
+	7 -> (arrT: 39; servT: 4)
+	37 -> (arrT: 39; servT: 1)
+server: <Thread #2> has amount of work: 2
+	44 -> (arrT: 30; servT: 2)
+	42 -> (arrT: 37; servT: 3)
+server: <Thread #3> has amount of work: 1
+	2 -> (arrT: 38; servT: 2)
+server: <Thread #4> has amount of work: 1
+	30 -> (arrT: 37; servT: 2)
+server: <Thread #5> has amount of work: 1
+	29 -> (arrT: 39; servT: 7)
+
+
+Current time: 40
+Waiting people:
+
+State of servers:
+server: <Thread #1> has amount of work: 2
+	7 -> (arrT: 39; servT: 3)
+	37 -> (arrT: 39; servT: 1)
+server: <Thread #2> has amount of work: 2
+	44 -> (arrT: 30; servT: 1)
+	42 -> (arrT: 37; servT: 3)
+server: <Thread #3> has amount of work: 2
+	2 -> (arrT: 38; servT: 1)
+	19 -> (arrT: 40; servT: 1)
+server: <Thread #4> has amount of work: 1
+	30 -> (arrT: 37; servT: 1)
+server: <Thread #5> has amount of work: 1
+	29 -> (arrT: 39; servT: 6)
+
+
+Current time: 41
+Waiting people:
+
+State of servers:
+server: <Thread #1> has amount of work: 2
+	7 -> (arrT: 39; servT: 2)
+	37 -> (arrT: 39; servT: 1)
+server: <Thread #2> has amount of work: 1
+	42 -> (arrT: 37; servT: 3)
+server: <Thread #3> has amount of work: 1
+	19 -> (arrT: 40; servT: 1)
+server: <Thread #4> is closed
+server: <Thread #5> has amount of work: 1
+	29 -> (arrT: 39; servT: 5)
+
+
+Current time: 42
+Waiting people:
+
+State of servers:
+server: <Thread #1> has amount of work: 2
+	7 -> (arrT: 39; servT: 1)
+	37 -> (arrT: 39; servT: 1)
+server: <Thread #2> has amount of work: 1
+	42 -> (arrT: 37; servT: 2)
+server: <Thread #3> is closed
+server: <Thread #4> is closed
+server: <Thread #5> has amount of work: 1
+	29 -> (arrT: 39; servT: 4)
+
+
+Current time: 43
+Waiting people:
+
+State of servers:
+server: <Thread #1> has amount of work: 1
+	37 -> (arrT: 39; servT: 1)
+server: <Thread #2> has amount of work: 1
+	42 -> (arrT: 37; servT: 1)
+server: <Thread #3> is closed
+server: <Thread #4> is closed
+server: <Thread #5> has amount of work: 1
+	29 -> (arrT: 39; servT: 3)
+
+
+Current time: 44
+Waiting people:
+
+State of servers:
+server: <Thread #1> is closed
+server: <Thread #2> is closed
+server: <Thread #3> is closed
+server: <Thread #4> is closed
+server: <Thread #5> has amount of work: 1
+	29 -> (arrT: 39; servT: 2)
+
+
+Current time: 45
+Waiting people:
+
+State of servers:
+server: <Thread #1> is closed
+server: <Thread #2> is closed
+server: <Thread #3> is closed
+server: <Thread #4> is closed
+server: <Thread #5> has amount of work: 1
+	29 -> (arrT: 39; servT: 1)
+
+
+Average overall waiting time: 26.68
+Average overall service time: 3.9
+Peak hour: 14

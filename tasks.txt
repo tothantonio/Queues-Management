@@ -1,0 +1,11 @@
+10 generated tasks:
+1 -> (arrT: 3; servT: 2)
+2 -> (arrT: 6; servT: 2)
+3 -> (arrT: 8; servT: 5)
+4 -> (arrT: 4; servT: 4)
+5 -> (arrT: 3; servT: 3)
+6 -> (arrT: 10; servT: 4)
+7 -> (arrT: 10; servT: 5)
+8 -> (arrT: 6; servT: 5)
+9 -> (arrT: 6; servT: 4)
+10 -> (arrT: 8; servT: 4)

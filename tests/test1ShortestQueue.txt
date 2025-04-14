@@ -1,0 +1,333 @@
+Current time: 0
+Waiting people:
+>>1 -> (arrT: 21; servT: 3)
+>>2 -> (arrT: 4; servT: 3)
+>>3 -> (arrT: 26; servT: 4)
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> is closed
+server: <Thread #2> is closed
+
+
+Current time: 1
+Waiting people:
+>>1 -> (arrT: 21; servT: 3)
+>>2 -> (arrT: 4; servT: 3)
+>>3 -> (arrT: 26; servT: 4)
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> is closed
+server: <Thread #2> is closed
+
+
+Current time: 2
+Waiting people:
+>>1 -> (arrT: 21; servT: 3)
+>>2 -> (arrT: 4; servT: 3)
+>>3 -> (arrT: 26; servT: 4)
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> is closed
+server: <Thread #2> is closed
+
+
+Current time: 3
+Waiting people:
+>>1 -> (arrT: 21; servT: 3)
+>>2 -> (arrT: 4; servT: 3)
+>>3 -> (arrT: 26; servT: 4)
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> is closed
+server: <Thread #2> is closed
+
+
+Current time: 4
+Waiting people:
+>>1 -> (arrT: 21; servT: 3)
+>>3 -> (arrT: 26; servT: 4)
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> has amount of work: 1
+	2 -> (arrT: 4; servT: 3)
+server: <Thread #2> is closed
+
+
+Current time: 5
+Waiting people:
+>>1 -> (arrT: 21; servT: 3)
+>>3 -> (arrT: 26; servT: 4)
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> has amount of work: 1
+	2 -> (arrT: 4; servT: 2)
+server: <Thread #2> is closed
+
+
+Current time: 6
+Waiting people:
+>>1 -> (arrT: 21; servT: 3)
+>>3 -> (arrT: 26; servT: 4)
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> has amount of work: 1
+	2 -> (arrT: 4; servT: 1)
+server: <Thread #2> is closed
+
+
+Current time: 7
+Waiting people:
+>>1 -> (arrT: 21; servT: 3)
+>>3 -> (arrT: 26; servT: 4)
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> is closed
+server: <Thread #2> is closed
+
+
+Current time: 8
+Waiting people:
+>>1 -> (arrT: 21; servT: 3)
+>>3 -> (arrT: 26; servT: 4)
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> is closed
+server: <Thread #2> is closed
+
+
+Current time: 9
+Waiting people:
+>>1 -> (arrT: 21; servT: 3)
+>>3 -> (arrT: 26; servT: 4)
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> is closed
+server: <Thread #2> is closed
+
+
+Current time: 10
+Waiting people:
+>>1 -> (arrT: 21; servT: 3)
+>>3 -> (arrT: 26; servT: 4)
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> is closed
+server: <Thread #2> is closed
+
+
+Current time: 11
+Waiting people:
+>>1 -> (arrT: 21; servT: 3)
+>>3 -> (arrT: 26; servT: 4)
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> is closed
+server: <Thread #2> is closed
+
+
+Current time: 12
+Waiting people:
+>>1 -> (arrT: 21; servT: 3)
+>>3 -> (arrT: 26; servT: 4)
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> is closed
+server: <Thread #2> is closed
+
+
+Current time: 13
+Waiting people:
+>>1 -> (arrT: 21; servT: 3)
+>>3 -> (arrT: 26; servT: 4)
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> is closed
+server: <Thread #2> is closed
+
+
+Current time: 14
+Waiting people:
+>>1 -> (arrT: 21; servT: 3)
+>>3 -> (arrT: 26; servT: 4)
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> is closed
+server: <Thread #2> is closed
+
+
+Current time: 15
+Waiting people:
+>>1 -> (arrT: 21; servT: 3)
+>>3 -> (arrT: 26; servT: 4)
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> is closed
+server: <Thread #2> is closed
+
+
+Current time: 16
+Waiting people:
+>>1 -> (arrT: 21; servT: 3)
+>>3 -> (arrT: 26; servT: 4)
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> is closed
+server: <Thread #2> is closed
+
+
+Current time: 17
+Waiting people:
+>>1 -> (arrT: 21; servT: 3)
+>>3 -> (arrT: 26; servT: 4)
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> is closed
+server: <Thread #2> is closed
+
+
+Current time: 18
+Waiting people:
+>>1 -> (arrT: 21; servT: 3)
+>>3 -> (arrT: 26; servT: 4)
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> is closed
+server: <Thread #2> is closed
+
+
+Current time: 19
+Waiting people:
+>>1 -> (arrT: 21; servT: 3)
+>>3 -> (arrT: 26; servT: 4)
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> is closed
+server: <Thread #2> is closed
+
+
+Current time: 20
+Waiting people:
+>>1 -> (arrT: 21; servT: 3)
+>>3 -> (arrT: 26; servT: 4)
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> is closed
+server: <Thread #2> is closed
+
+
+Current time: 21
+Waiting people:
+>>3 -> (arrT: 26; servT: 4)
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> has amount of work: 1
+	1 -> (arrT: 21; servT: 3)
+server: <Thread #2> is closed
+
+
+Current time: 22
+Waiting people:
+>>3 -> (arrT: 26; servT: 4)
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> has amount of work: 1
+	1 -> (arrT: 21; servT: 2)
+server: <Thread #2> is closed
+
+
+Current time: 23
+Waiting people:
+>>3 -> (arrT: 26; servT: 4)
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> has amount of work: 1
+	1 -> (arrT: 21; servT: 1)
+server: <Thread #2> is closed
+
+
+Current time: 24
+Waiting people:
+>>3 -> (arrT: 26; servT: 4)
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> is closed
+server: <Thread #2> is closed
+
+
+Current time: 25
+Waiting people:
+>>3 -> (arrT: 26; servT: 4)
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> is closed
+server: <Thread #2> is closed
+
+
+Current time: 26
+Waiting people:
+>>4 -> (arrT: 27; servT: 2)
+
+State of servers:
+server: <Thread #1> has amount of work: 1
+	3 -> (arrT: 26; servT: 4)
+server: <Thread #2> is closed
+
+
+Current time: 27
+Waiting people:
+
+State of servers:
+server: <Thread #1> has amount of work: 1
+	3 -> (arrT: 26; servT: 3)
+server: <Thread #2> has amount of work: 1
+	4 -> (arrT: 27; servT: 2)
+
+
+Current time: 28
+Waiting people:
+
+State of servers:
+server: <Thread #1> has amount of work: 1
+	3 -> (arrT: 26; servT: 2)
+server: <Thread #2> has amount of work: 1
+	4 -> (arrT: 27; servT: 1)
+
+
+Current time: 29
+Waiting people:
+
+State of servers:
+server: <Thread #1> has amount of work: 1
+	3 -> (arrT: 26; servT: 1)
+server: <Thread #2> is closed
+
+
+Average overall waiting time: 22.5
+Average overall service time: 3.0
+Peak hour: 27
